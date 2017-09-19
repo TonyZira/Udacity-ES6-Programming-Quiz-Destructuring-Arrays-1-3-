@@ -1,0 +1,1 @@
+# Udacity-ES6-Programming-Quiz-Destructuring-Arrays-1-3-
